@@ -1,8 +1,0 @@
- <<EOF
-.terraform/
-*.tfstate
-*.tfstate.*
-.terraform.lock.hcl
-*.swp
-*.swo
-EOF
